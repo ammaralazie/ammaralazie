@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ammar-alazii-b93916186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-alazii-b93916186" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100047824073494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100047824073494" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dev.ah95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dev.ah95/" height="30" width="40" /></a>
+<a href="https://fb.com/ammaralazii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ammaralazii" height="30" width="40" /></a>
+<a href="https://instagram.com/dev.ah95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.ah95" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
