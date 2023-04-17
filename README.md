@@ -1,7 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,200&display=swap" rel="stylesheet">
-<marquee width=100%><h1 align="center">Hi 👋, I'm Ammar Hadee Frman</h1></marquee>
+<marquee width=100%><h1 align="center">Hi 👋, I'm Ammar Hadi Frman</h1></marquee>
 <h3 align="center">full stack developer from iraq</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammaralazie" alt="ammaralazie" /></a> </p>
